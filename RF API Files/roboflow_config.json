@@ -1,7 +1,7 @@
 {
     "__comment1": "Obtain these values via Roboflow",
     "ROBOFLOW_API_KEY": "NKqX6U4puyYvSFzbM4ih",
-    "ROBOFLOW_MODEL": "soldier-redcar/4",
+    "ROBOFLOW_MODEL": "soldier-redcar/3",
     "ROBOFLOW_SIZE": 416,
 
     "__comment2": "The following are only needed for infer-async.py",
